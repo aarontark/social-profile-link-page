@@ -14,3 +14,16 @@
     --off-black: hsl(0, 0%, 8%);
     --body-font-size: .875rem;
 }
+
+body {
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+a {
+    text-decoration: none;
+}
