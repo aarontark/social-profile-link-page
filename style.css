@@ -32,9 +32,9 @@ a {
 }
 
 .content-container {
-    margin: 0 1rem;
+    width: 90%;
     background-color: var(--dark-grey);
-    max-width: 20.769rem;
+    max-width: 22.769rem;
     border-radius: .75rem;
 }
 
